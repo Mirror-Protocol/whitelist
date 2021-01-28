@@ -36,6 +36,14 @@
       "lpToken": "terra1d7xlu53sx9anwdqvxeya0tmhr7xzepd9agyvft",
       "status": "LISTED"
     },
+    "terra1zeyfhurlrun6sgytqfue555e6vw2ndxt2j7jhd": {
+      "symbol": "mAMC",
+      "name": "AMC Entertainment Holdings Inc.",
+      "token": "terra1zeyfhurlrun6sgytqfue555e6vw2ndxt2j7jhd",
+      "pair": "terra1nvevc6ff7vlmrd50ucuefa95xd2gzmy6lugqsm",
+      "lpToken": "terra1d8mk480l4sp3j095apcpqckrxyxqrsq6zapfzy",
+      "status": "LISTED"
+    },
     "terra12saaecsqwxj04fn0jsv4jmdyp6gylptf5tksge": {
       "symbol": "mAMZN",
       "name": "Amazon.com",
@@ -74,6 +82,14 @@
       "token": "terra14gq9wj0tt6vu0m4ec2tkkv4ln3qrtl58lgdl2c",
       "pair": "terra19jp7wqla5qrdusrcqest6rrc33wyvs0fumwd7v",
       "lpToken": "terra1l8c87av89cczj20mguxy0hmp6k6hesr0yjthkm",
+      "status": "LISTED"
+    },
+    "terra104tgj4gc3pp5s240a0mzqkhd3jzkn8v0u07hlf": {
+      "symbol": "mGME",
+      "name": "GameStop Corp",
+      "token": "terra104tgj4gc3pp5s240a0mzqkhd3jzkn8v0u07hlf",
+      "pair": "terra1q9qtdudqasdcgqmklw2hsnju09zcjhrhr8ntsa",
+      "lpToken": "terra1kkpe6has6g55nhyqp6vkw0wk8z3u3nq6fz6znc",
       "status": "LISTED"
     },
     "terra1qg9ugndl25567u03jrr79xur2yk9d632fke3h2": {
