@@ -28,6 +28,14 @@
       "lpToken": "terra122asauhmv083p02rhgyp7jn7kmjjm4ksexjnks",
       "status": "LISTED"
     },
+    "terra1g4x2pzmkc9z3mseewxf758rllg08z3797xly0n": {
+      "symbol": "mABNB",
+      "name": "Airbnb, Inc.",
+      "token": "terra1g4x2pzmkc9z3mseewxf758rllg08z3797xly0n",
+      "pair": "terra1gq7lq389w4dxqtkxj03wp0fvz0cemj0ek5wwmm",
+      "lpToken": "terra1jmauv302lfvpdfau5nhzy06q0j2f9te4hy2d07",
+      "status": "LISTED"
+    },
     "terra165nd2qmrtszehcfrntlplzern7zl4ahtlhd5t2": {
       "symbol": "mAMZN",
       "name": "Amazon.com",
@@ -60,12 +68,28 @@
       "lpToken": "terra16auz7uhnuxrj2dzrynz2elthx5zpps5gs6tyln",
       "status": "LISTED"
     },
+    "terra1mqsjugsugfprn3cvgxsrr8akkvdxv2pzc74us7": {
+      "symbol": "mFB",
+      "name": "Facebook, Inc.",
+      "token": "terra1mqsjugsugfprn3cvgxsrr8akkvdxv2pzc74us7",
+      "pair": "terra1yl2atgxw422qxahm02p364wtgu7gmeya237pcs",
+      "lpToken": "terra1jh2dh4g65hptsrwjv53nhsnkwlw8jdrxaxrca0",
+      "status": "LISTED"
+    },
     "terra1h8arz2k547uvmpxctuwush3jzc8fun4s96qgwt": {
       "symbol": "mGOOGL",
       "name": "Google",
       "token": "terra1h8arz2k547uvmpxctuwush3jzc8fun4s96qgwt",
       "pair": "terra1u56eamzkwzpm696hae4kl92jm6xxztar9uhkea",
       "lpToken": "terra1falkl6jy4087h4z567y2l59defm9acmwcs70ts",
+      "status": "LISTED"
+    },
+    "terra137drsu8gce5thf6jr5mxlfghw36rpljt3zj73v": {
+      "symbol": "mGS",
+      "name": "Goldman Sachs Group, Inc.",
+      "token": "terra137drsu8gce5thf6jr5mxlfghw36rpljt3zj73v",
+      "pair": "terra108ukjf6ekezuc52t9keernlqxtmzpj4wf7rx0h",
+      "lpToken": "terra17smg3rl9vdpawwpe7ex4ea4xm6q038gp2chge5",
       "status": "LISTED"
     },
     "terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec": {
