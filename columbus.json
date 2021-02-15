@@ -22,7 +22,7 @@
     },
     "terra1vxtwu4ehgzz77mnfwrntyrmgl64qjs75mpwqaz": {
       "symbol": "mAAPL",
-      "name": "Apple",
+      "name": "Apple Inc.",
       "token": "terra1vxtwu4ehgzz77mnfwrntyrmgl64qjs75mpwqaz",
       "pair": "terra1774f8rwx76k7ruy0gqnzq25wh7lmd72eg6eqp5",
       "lpToken": "terra122asauhmv083p02rhgyp7jn7kmjjm4ksexjnks",
@@ -30,15 +30,23 @@
     },
     "terra1g4x2pzmkc9z3mseewxf758rllg08z3797xly0n": {
       "symbol": "mABNB",
-      "name": "Airbnb, Inc.",
+      "name": "Airbnb Inc.",
       "token": "terra1g4x2pzmkc9z3mseewxf758rllg08z3797xly0n",
       "pair": "terra1gq7lq389w4dxqtkxj03wp0fvz0cemj0ek5wwmm",
       "lpToken": "terra1jmauv302lfvpdfau5nhzy06q0j2f9te4hy2d07",
       "status": "LISTED"
     },
+    "terra1qelfthdanju7wavc5tq0k5r0rhsyzyyrsn09qy": {
+      "symbol": "mAMC",
+      "name": "AMC Entertainment Holdings Inc.",
+      "token": "terra1qelfthdanju7wavc5tq0k5r0rhsyzyyrsn09qy",
+      "pair": "terra1uenpalqlmfaf4efgtqsvzpa3gh898d9h2a232g",
+      "lpToken": "terra1mtvslkm2tgsmh908dsfksnqu7r7lulh24a6knv",
+      "status": "LISTED"
+    },
     "terra165nd2qmrtszehcfrntlplzern7zl4ahtlhd5t2": {
       "symbol": "mAMZN",
-      "name": "Amazon.com",
+      "name": "Amazon.com, Inc.",
       "token": "terra165nd2qmrtszehcfrntlplzern7zl4ahtlhd5t2",
       "pair": "terra1vkvmvnmex90wanque26mjvay2mdtf0rz57fm6d",
       "lpToken": "terra1q7m2qsj3nzlz5ng25z5q5w5qcqldclfe3ljup9",
@@ -46,7 +54,7 @@
     },
     "terra1w7zgkcyt7y4zpct9dw8mw362ywvdlydnum2awa": {
       "symbol": "mBABA",
-      "name": "Alibaba Group Holdings Ltd ADR",
+      "name": "Alibaba Group Holding Limited",
       "token": "terra1w7zgkcyt7y4zpct9dw8mw362ywvdlydnum2awa",
       "pair": "terra1afdz4l9vsqddwmjqxmel99atu4rwscpfjm4yfp",
       "lpToken": "terra1stfeev27wdf7er2uja34gsmrv58yv397dlxmyn",
@@ -70,15 +78,23 @@
     },
     "terra1mqsjugsugfprn3cvgxsrr8akkvdxv2pzc74us7": {
       "symbol": "mFB",
-      "name": "Facebook, Inc.",
+      "name": "Facebook Inc.",
       "token": "terra1mqsjugsugfprn3cvgxsrr8akkvdxv2pzc74us7",
       "pair": "terra1yl2atgxw422qxahm02p364wtgu7gmeya237pcs",
       "lpToken": "terra1jh2dh4g65hptsrwjv53nhsnkwlw8jdrxaxrca0",
       "status": "LISTED"
     },
+    "terra1m6j6j9gw728n82k78s0j9kq8l5p6ne0xcc820p": {
+      "symbol": "mGME",
+      "name": "GameStop Corp",
+      "token": "terra1m6j6j9gw728n82k78s0j9kq8l5p6ne0xcc820p",
+      "pair": "terra17eakdtane6d2y7y6v0s79drq7gnhzqan48kxw7",
+      "lpToken": "terra1azk43zydh3sdxelg3h4csv4a4uef7fmjy0hu20",
+      "status": "LISTED"
+    },
     "terra1h8arz2k547uvmpxctuwush3jzc8fun4s96qgwt": {
       "symbol": "mGOOGL",
-      "name": "Google",
+      "name": "Alphabet Inc.",
       "token": "terra1h8arz2k547uvmpxctuwush3jzc8fun4s96qgwt",
       "pair": "terra1u56eamzkwzpm696hae4kl92jm6xxztar9uhkea",
       "lpToken": "terra1falkl6jy4087h4z567y2l59defm9acmwcs70ts",
@@ -86,7 +102,7 @@
     },
     "terra137drsu8gce5thf6jr5mxlfghw36rpljt3zj73v": {
       "symbol": "mGS",
-      "name": "Goldman Sachs Group, Inc.",
+      "name": "Goldman Sachs Group Inc.",
       "token": "terra137drsu8gce5thf6jr5mxlfghw36rpljt3zj73v",
       "pair": "terra108ukjf6ekezuc52t9keernlqxtmzpj4wf7rx0h",
       "lpToken": "terra17smg3rl9vdpawwpe7ex4ea4xm6q038gp2chge5",
@@ -110,7 +126,7 @@
     },
     "terra1jsxngqasf2zynj5kyh0tgq9mj3zksa5gk35j4k": {
       "symbol": "mNFLX",
-      "name": "Netflix",
+      "name": "Netflix, Inc.",
       "token": "terra1jsxngqasf2zynj5kyh0tgq9mj3zksa5gk35j4k",
       "pair": "terra1yppvuda72pvmxd727knemvzsuergtslj486rdq",
       "lpToken": "terra1mwu3cqzvhygqg7vrsa6kfstgg9d6yzkgs6yy3t",
@@ -134,7 +150,7 @@
     },
     "terra14y5affaarufk3uscy2vr6pe6w6zqf2wpjzn5sh": {
       "symbol": "mTSLA",
-      "name": "Tesla",
+      "name": "Tesla, Inc.",
       "token": "terra14y5affaarufk3uscy2vr6pe6w6zqf2wpjzn5sh",
       "pair": "terra1pdxyk2gkykaraynmrgjfq2uu7r9pf5v8x7k4xk",
       "lpToken": "terra1ygazp9w7tx64rkx5wmevszu38y5cpg6h3fk86e",
@@ -142,7 +158,7 @@
     },
     "terra1cc3enj9qgchlrj34cnzhwuclc4vl2z3jl7tkqg": {
       "symbol": "mTWTR",
-      "name": "Twitter",
+      "name": "Twitter, Inc.",
       "token": "terra1cc3enj9qgchlrj34cnzhwuclc4vl2z3jl7tkqg",
       "pair": "terra1ea9js3y4l7vy0h46k4e5r5ykkk08zc3fx7v4t8",
       "lpToken": "terra1fc5a5gsxatjey9syq93c2n3xq90n06t60nkj6l",
@@ -158,7 +174,7 @@
     },
     "terra1zp3a6q6q4953cz376906g5qfmxnlg77hx3te45": {
       "symbol": "mVIXY",
-      "name": "ProShares VIX",
+      "name": "ProShares VIX Short-Term Futures ETF",
       "token": "terra1zp3a6q6q4953cz376906g5qfmxnlg77hx3te45",
       "pair": "terra1yngadscckdtd68nzw5r5va36jccjmmasm7klpp",
       "lpToken": "terra1cmrl4txa7cwd7cygpp4yzu7xu8g7c772els2y8",
