@@ -148,6 +148,14 @@
       "lpToken": "terra178cf7xf4r9d3z03tj3pftewmhx0x2p77s0k6yh",
       "status": "LISTED"
     },
+    "terra1aa00lpfexyycedfg5k2p60l9djcmw0ue5l8fhc": {
+      "symbol": "mSPY",
+      "name": "SPDR S&P 500",
+      "token": "terra1aa00lpfexyycedfg5k2p60l9djcmw0ue5l8fhc",
+      "pair": "terra14hklnm2ssaexjwkcfhyyyzvpmhpwx6x6lpy39s",
+      "lpToken": "terra1jqqegd35rg2gjde54adpj3t6ecu0khfeaarzy9",
+      "status": "LISTED"
+    },
     "terra14y5affaarufk3uscy2vr6pe6w6zqf2wpjzn5sh": {
       "symbol": "mTSLA",
       "name": "Tesla, Inc.",
