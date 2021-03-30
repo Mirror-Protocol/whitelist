@@ -68,14 +68,6 @@
       "lpToken": "terra186m890y8hzhyhp8emgsy2a8jqvsgluznc688xf",
       "status": "LISTED"
     },
-    "terra18rywptlr28ut7mmglzkcjshkq32w50w4tnqxq5": {
-      "symbol": "mDIS",
-      "name": "Walt Disney Co.",
-      "token": "terra18rywptlr28ut7mmglzkcjshkq32w50w4tnqxq5",
-      "pair": "terra16srlhkvcd8wy70rxazhdhp25dk88mwahq225ts",
-      "lpToken": "terra1pzvgpkpacrxxem6jdrfyf9m7ttkjk87askxk8s",
-      "status": "LISTED"
-    },
     "terra1ys4dwwzaenjg2gy02mslmc96f267xvpsjat7gx": {
       "symbol": "mETH",
       "name": "Ethereum",
