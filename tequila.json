@@ -68,6 +68,14 @@
       "lpToken": "terra186m890y8hzhyhp8emgsy2a8jqvsgluznc688xf",
       "status": "LISTED"
     },
+    "terra1qre9crlfnulcg0m68qqywqqstplgvrzywsg3am": {
+      "symbol": "mCOIN",
+      "name": "Coinbase Global, Inc.",
+      "token": "terra1qre9crlfnulcg0m68qqywqqstplgvrzywsg3am",
+      "pair": "terra13qzses7zpsyrufx38h0kc3p87523cjgwmenj44",
+      "lpToken": "terra1gdglgpm84pdzuedc924wurhsqd0vs4nv4tpmh8",
+      "status": "LISTED"
+    },
     "terra1ys4dwwzaenjg2gy02mslmc96f267xvpsjat7gx": {
       "symbol": "mETH",
       "name": "Ethereum",
@@ -116,14 +124,6 @@
       "lpToken": "terra193c2xvuzswct8qtsg4e6qhe3hyt3l6fac9cy79",
       "status": "LISTED"
     },
-    "terra1374w7fkm7tqhd9dt2r5shjk8ly2kum443uennt": {
-      "symbol": "mKSU",
-      "name": "Kansas City Southern",
-      "token": "terra1374w7fkm7tqhd9dt2r5shjk8ly2kum443uennt",
-      "pair": "terra1a4mghffxj4zr2lmr74en7383u95ulmdrrp87zj",
-      "lpToken": "terra1vtswnef0hgyjw73nc0zk07js9h5e9mudkj2qad",
-      "status": "DELISTED"
-    },
     "terra1qhkjjlqq2lyf2evzserdaqx55nugksjqdpxvru": {
       "symbol": "mKSU",
       "name": "Kansas City Southern",
@@ -131,6 +131,14 @@
       "pair": "terra1q6qyyxmsmyjvw5cf5yc4tjx2qchtr0qpzgsmcc",
       "lpToken": "terra1smcc94557d4zf9dlytxd9k4yx2ylhuxr9fjcgs",
       "status": "LISTED"
+    },
+    "terra1374w7fkm7tqhd9dt2r5shjk8ly2kum443uennt": {
+      "symbol": "mKSU",
+      "name": "Kansas City Southern",
+      "token": "terra1374w7fkm7tqhd9dt2r5shjk8ly2kum443uennt",
+      "pair": "terra1a4mghffxj4zr2lmr74en7383u95ulmdrrp87zj",
+      "lpToken": "terra1vtswnef0hgyjw73nc0zk07js9h5e9mudkj2qad",
+      "status": "DELISTED"
     },
     "terra12s2h8vlztjwu440khpc0063p34vm7nhu25w4p9": {
       "symbol": "mMSFT",
