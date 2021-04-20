@@ -68,6 +68,14 @@
       "lpToken": "terra1d34edutzwcz6jgecgk26mpyynqh74j3emdsnq5",
       "status": "LISTED"
     },
+    "terra18wayjpyq28gd970qzgjfmsjj7dmgdk039duhph": {
+      "symbol": "mCOIN",
+      "name": "Coinbase Global, Inc.",
+      "token": "terra18wayjpyq28gd970qzgjfmsjj7dmgdk039duhph",
+      "pair": "terra1h7t2yq00rxs8a78nyrnhlvp0ewu8vnfnx5efsl",
+      "lpToken": "terra1ktckr8v7judrr6wkwv476pwsv8mht0zqzw2t0h",
+      "status": "LISTED"
+    },
     "terra1dk3g53js3034x4v5c3vavhj2738une880yu6kx": {
       "symbol": "mETH",
       "name": "Ether",
