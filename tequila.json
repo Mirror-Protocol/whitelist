@@ -124,14 +124,6 @@
       "lpToken": "terra193c2xvuzswct8qtsg4e6qhe3hyt3l6fac9cy79",
       "status": "LISTED"
     },
-    "terra1374w7fkm7tqhd9dt2r5shjk8ly2kum443uennt": {
-      "symbol": "mKSU",
-      "name": "Kansas City Southern",
-      "token": "terra1374w7fkm7tqhd9dt2r5shjk8ly2kum443uennt",
-      "pair": "terra1a4mghffxj4zr2lmr74en7383u95ulmdrrp87zj",
-      "lpToken": "terra1vtswnef0hgyjw73nc0zk07js9h5e9mudkj2qad",
-      "status": "DELISTED"
-    },
     "terra1qhkjjlqq2lyf2evzserdaqx55nugksjqdpxvru": {
       "symbol": "mKSU",
       "name": "Kansas City Southern",
@@ -139,6 +131,14 @@
       "pair": "terra1q6qyyxmsmyjvw5cf5yc4tjx2qchtr0qpzgsmcc",
       "lpToken": "terra1smcc94557d4zf9dlytxd9k4yx2ylhuxr9fjcgs",
       "status": "LISTED"
+    },
+    "terra1374w7fkm7tqhd9dt2r5shjk8ly2kum443uennt": {
+      "symbol": "mKSU",
+      "name": "Kansas City Southern",
+      "token": "terra1374w7fkm7tqhd9dt2r5shjk8ly2kum443uennt",
+      "pair": "terra1a4mghffxj4zr2lmr74en7383u95ulmdrrp87zj",
+      "lpToken": "terra1vtswnef0hgyjw73nc0zk07js9h5e9mudkj2qad",
+      "status": "DELISTED"
     },
     "terra12s2h8vlztjwu440khpc0063p34vm7nhu25w4p9": {
       "symbol": "mMSFT",
@@ -218,6 +218,14 @@
       "token": "terra18py95akdje8q8aaukhx65dplh9342m0j884wt4",
       "pair": "terra1kjz67vny3vdj5nx0a5dk0r8ymkcs4ga8zssfmk",
       "lpToken": "terra1yh39ehhz9a94kxqtkxc0kuy2a9atxhynmkpxyd",
+      "status": "DELISTED"
+    },
+    "terra1090l5p5v794dpyzr07da72cyexhuc4zag5cuer": {
+      "symbol": "mWVFC",
+      "name": "WVS Financial Corp.",
+      "token": "terra1090l5p5v794dpyzr07da72cyexhuc4zag5cuer",
+      "pair": "terra136twwxx09ywacekqy88uxepus8djhd7pkjr44q",
+      "lpToken": "terra1jz08nhqf3aju4rs8cyshfpzfj704sa3l0cnhvz",
       "status": "LISTED"
     }
   }
