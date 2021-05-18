@@ -197,5 +197,16 @@
       "status": "LISTED"
     }
   },
-  "delist": {}
+  "delist": {
+    "terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec": {
+      "symbol": "mIAU",
+      "date": "2021-05-24",
+      "ratio": "2:1"
+    },
+    "terra1zp3a6q6q4953cz376906g5qfmxnlg77hx3te45": {
+      "symbol": "mVIXY",
+      "date": "2021-05-26",
+      "ratio": "4:1"
+    }
+  }
 }
