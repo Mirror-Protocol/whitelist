@@ -92,6 +92,14 @@
       "lpToken": "terra1jh2dh4g65hptsrwjv53nhsnkwlw8jdrxaxrca0",
       "status": "LISTED"
     },
+    "terra1l5lrxtwd98ylfy09fn866au6dp76gu8ywnudls": {
+      "symbol": "mGLXY",
+      "name": "Galaxy Digital Holdings Ltd",
+      "token": "terra1l5lrxtwd98ylfy09fn866au6dp76gu8ywnudls",
+      "pair": "terra1ze5f2lm5clq2cdd9y2ve3lglfrq6ap8cqncld8",
+      "lpToken": "terra1pjgzke6h5v4nz978z3a92gqajwhn8yyh5kv4zv",
+      "status": "LISTED"
+    },
     "terra1m6j6j9gw728n82k78s0j9kq8l5p6ne0xcc820p": {
       "symbol": "mGME",
       "name": "GameStop Corp",
