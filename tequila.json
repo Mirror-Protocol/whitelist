@@ -9,7 +9,8 @@
     "tokenFactory": "terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf",
     "collector": "terra1v046ktavwzlyct5gh8ls767fh7hc4gxc95grxy",
     "community": "terra10qm80sfht0zhh3gaeej7sd4f92tswc44fn000q",
-    "airdrop": "terra1p6nvyw7vz3fgpy4nyh3q3vc09e65sr97ejxn2p"
+    "airdrop": "terra1p6nvyw7vz3fgpy4nyh3q3vc09e65sr97ejxn2p",
+    "limitOrder": "terra1vc4ch0z3n6c23f9uywzy5yqaj2gmpnam8qgge7"
   },
   "whitelist": {
     "terra10llyp6v3j3her8u3ce66ragytu45kcmd9asj3u": {
