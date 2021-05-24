@@ -125,6 +125,14 @@
       "lpToken": "terra17smg3rl9vdpawwpe7ex4ea4xm6q038gp2chge5",
       "status": "LISTED"
     },
+    "terra10h7ry7apm55h4ez502dqdv9gr53juu85nkd4aq": {
+      "symbol": "mIAU",
+      "name": "iShares Gold Trust",
+      "token": "terra10h7ry7apm55h4ez502dqdv9gr53juu85nkd4aq",
+      "pair": "terra15kkctr4eug9txq7v6ks6026yd4zjkrm3mc0nkp",
+      "lpToken": "terra1ndlx5ndkknvmgj6s5ggmdlhjjsz0w6wrnwn5cf",
+      "status": "LISTED"
+    },
     "terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec": {
       "symbol": "mIAU",
       "name": "iShares Gold Trust",
