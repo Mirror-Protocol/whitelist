@@ -205,6 +205,14 @@
       "lpToken": "terra1utf3tm35qk6fkft7ltcnscwml737vfz7xghwn5",
       "status": "LISTED"
     },
+    "terra19cmt6vzvhnnnfsmccaaxzy2uaj06zjktu6yzjx": {
+      "symbol": "mVIXY",
+      "name": "ProShares VIX Short-Term Futures ETF",
+      "token": "terra19cmt6vzvhnnnfsmccaaxzy2uaj06zjktu6yzjx",
+      "pair": "terra1krny2jc0tpkzeqfmswm7ss8smtddxqm3mxxsjm",
+      "lpToken": "terra1ekd58y58vq4gmxlzpc27dwuhw7wmms928ftuep",
+      "status": "LISTED"
+    },
     "terra1zp3a6q6q4953cz376906g5qfmxnlg77hx3te45": {
       "symbol": "mVIXY",
       "name": "ProShares VIX Short-Term Futures ETF",
