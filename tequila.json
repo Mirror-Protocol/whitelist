@@ -125,6 +125,14 @@
       "lpToken": "terra193c2xvuzswct8qtsg4e6qhe3hyt3l6fac9cy79",
       "status": "DELISTED"
     },
+    "terra1p50j2k5vyw3q2tgywqvxyz59z8csh9p7x8dk5m": {
+      "symbol": "mIAU",
+      "name": "iShares Gold Trust",
+      "token": "terra1p50j2k5vyw3q2tgywqvxyz59z8csh9p7x8dk5m",
+      "pair": "terra1rtz5mn38pnj924nr97yzax4g849qj4d4m8r7wk",
+      "lpToken": "terra1wj8cm3h7fe369nl8j4ddukesfuy9l3hr4hjw22",
+      "status": "LISTED"
+    },
     "terra1qhkjjlqq2lyf2evzserdaqx55nugksjqdpxvru": {
       "symbol": "mKSU",
       "name": "Kansas City Southern",
@@ -181,14 +189,6 @@
       "lpToken": "terra1h52zc9qmndczgru9vp2cvuwfclyykl5yt3qjk8",
       "status": "LISTED"
     },
-    "terra1hvmzhnhxnyhjfnctntnn49a35w6hvygmxvjt7q": {
-      "symbol": "mRXT",
-      "name": "Rackspace Technology, Inc.",
-      "token": "terra1hvmzhnhxnyhjfnctntnn49a35w6hvygmxvjt7q",
-      "pair": "terra1vy4rk2c09v86n0gl8qmdhcv3efvykhrfeayt9l",
-      "lpToken": "terra1u5mzjkd3t3md6yart8s0wcnfqptxtn2rc9euzq",
-      "status": "LISTED"
-    },
     "terra14vmf4tzg23fxnt9q5wavlp4wtvzzap82hdq402": {
       "symbol": "mRXT",
       "name": "Rackspace Technology, Inc.",
@@ -196,6 +196,14 @@
       "pair": "terra1vdshh7lmxlmvm93dpc4jd5ecjcun05wj39nxgl",
       "lpToken": "terra1l5wznvgvzetj50w02v065rnq08srxtr8zqta7l",
       "status": "DELISTED"
+    },
+    "terra1hvmzhnhxnyhjfnctntnn49a35w6hvygmxvjt7q": {
+      "symbol": "mRXT",
+      "name": "Rackspace Technology, Inc.",
+      "token": "terra1hvmzhnhxnyhjfnctntnn49a35w6hvygmxvjt7q",
+      "pair": "terra1vy4rk2c09v86n0gl8qmdhcv3efvykhrfeayt9l",
+      "lpToken": "terra1u5mzjkd3t3md6yart8s0wcnfqptxtn2rc9euzq",
+      "status": "LISTED"
     },
     "terra1fdkfhgk433tar72t4edh6p6y9rmjulzc83ljuw": {
       "symbol": "mSLV",
@@ -243,6 +251,14 @@
       "token": "terra1z0k7nx0vl85hwpv3e3hu2cyfkwq07fl7nqchvd",
       "pair": "terra1xg2393l4s7n4z2r0cnu4rr55mkpp942f4d3qzr",
       "lpToken": "terra1ud750vcv39hd467sj2kk6s6nn8zf5xhgggf7uq",
+      "status": "DELISTED"
+    },
+    "terra18gphn8r437p2xmjpw7a79hgsglf5y4t0x7s5ee": {
+      "symbol": "mVIXY",
+      "name": "ProShares VIX Short-Term Futures ETF",
+      "token": "terra18gphn8r437p2xmjpw7a79hgsglf5y4t0x7s5ee",
+      "pair": "terra1tfkksph7p9qkean66kc87u2kalu0pw9um9ep2y",
+      "lpToken": "terra1h9zrywpukj2wvu5dfsm7tcxk8mwzzyrxenshsn",
       "status": "LISTED"
     },
     "terra18py95akdje8q8aaukhx65dplh9342m0j884wt4": {
