@@ -141,7 +141,7 @@
       "token": "terra1qhkjjlqq2lyf2evzserdaqx55nugksjqdpxvru",
       "pair": "terra1q6qyyxmsmyjvw5cf5yc4tjx2qchtr0qpzgsmcc",
       "lpToken": "terra1smcc94557d4zf9dlytxd9k4yx2ylhuxr9fjcgs",
-      "status": "LISTED"
+      "status": "DELISTED"
     },
     "terra1374w7fkm7tqhd9dt2r5shjk8ly2kum443uennt": {
       "symbol": "mKSU",
@@ -165,7 +165,7 @@
       "token": "terra1anw5z9u5l35vxhhqljuygmkupwmafcv0m86kum",
       "pair": "terra122mhak6jrjrknwk74wjycjxxrwl2esrmt0mm2w",
       "lpToken": "terra136vd5a23hhywz872n7t8f8egrq8kkwrpawdsf8",
-      "status": "LISTED"
+      "status": "DELISTED"
     },
     "terra12s2h8vlztjwu440khpc0063p34vm7nhu25w4p9": {
       "symbol": "mMSFT",
@@ -269,7 +269,7 @@
       "token": "terra1090l5p5v794dpyzr07da72cyexhuc4zag5cuer",
       "pair": "terra136twwxx09ywacekqy88uxepus8djhd7pkjr44q",
       "lpToken": "terra1jz08nhqf3aju4rs8cyshfpzfj704sa3l0cnhvz",
-      "status": "LISTED"
+      "status": "DELISTED"
     },
     "terra18py95akdje8q8aaukhx65dplh9342m0j884wt4": {
       "symbol": "mWVFC",
