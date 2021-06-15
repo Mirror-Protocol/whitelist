@@ -119,14 +119,6 @@
       "lpToken": "terra1xwk2x2pyrhlshjgnlv3ql5q8r8r8vyrdf6u2mj",
       "status": "LISTED"
     },
-    "terra19dl29dpykvzej8rg86mjqg8h63s9cqvkknpclr": {
-      "symbol": "mIAU",
-      "name": "iShares Gold Trust",
-      "token": "terra19dl29dpykvzej8rg86mjqg8h63s9cqvkknpclr",
-      "pair": "terra1tq6w7rl4ryrk458k57dstelx54eylph5zwnpf9",
-      "lpToken": "terra193c2xvuzswct8qtsg4e6qhe3hyt3l6fac9cy79",
-      "status": "DELISTED"
-    },
     "terra1p50j2k5vyw3q2tgywqvxyz59z8csh9p7x8dk5m": {
       "symbol": "mIAU",
       "name": "iShares Gold Trust",
@@ -134,6 +126,14 @@
       "pair": "terra1rtz5mn38pnj924nr97yzax4g849qj4d4m8r7wk",
       "lpToken": "terra1wj8cm3h7fe369nl8j4ddukesfuy9l3hr4hjw22",
       "status": "LISTED"
+    },
+    "terra19dl29dpykvzej8rg86mjqg8h63s9cqvkknpclr": {
+      "symbol": "mIAU",
+      "name": "iShares Gold Trust",
+      "token": "terra19dl29dpykvzej8rg86mjqg8h63s9cqvkknpclr",
+      "pair": "terra1tq6w7rl4ryrk458k57dstelx54eylph5zwnpf9",
+      "lpToken": "terra193c2xvuzswct8qtsg4e6qhe3hyt3l6fac9cy79",
+      "status": "DELISTED"
     },
     "terra1qhkjjlqq2lyf2evzserdaqx55nugksjqdpxvru": {
       "symbol": "mKSU",
@@ -151,14 +151,6 @@
       "lpToken": "terra1vtswnef0hgyjw73nc0zk07js9h5e9mudkj2qad",
       "status": "DELISTED"
     },
-    "terra1anw5z9u5l35vxhhqljuygmkupwmafcv0m86kum": {
-      "symbol": "mLRMR",
-      "name": "Larimar Therapeutics, Inc.",
-      "token": "terra1anw5z9u5l35vxhhqljuygmkupwmafcv0m86kum",
-      "pair": "terra122mhak6jrjrknwk74wjycjxxrwl2esrmt0mm2w",
-      "lpToken": "terra136vd5a23hhywz872n7t8f8egrq8kkwrpawdsf8",
-      "status": "LISTED"
-    },
     "terra19jdmle3zl99gugmptx8auckc9c2xw7nspyxjvx": {
       "symbol": "mLRMR",
       "name": "Larimar Therapeutics, Inc.",
@@ -166,6 +158,14 @@
       "pair": "terra1ym7gd7x9da79tey6mj2248jm07pn2flt670s6s",
       "lpToken": "terra1xj4a7uhavktkv5rp20z0mc7hnneu4v2s6c5q2y",
       "status": "DELISTED"
+    },
+    "terra1anw5z9u5l35vxhhqljuygmkupwmafcv0m86kum": {
+      "symbol": "mLRMR",
+      "name": "Larimar Therapeutics, Inc.",
+      "token": "terra1anw5z9u5l35vxhhqljuygmkupwmafcv0m86kum",
+      "pair": "terra122mhak6jrjrknwk74wjycjxxrwl2esrmt0mm2w",
+      "lpToken": "terra136vd5a23hhywz872n7t8f8egrq8kkwrpawdsf8",
+      "status": "LISTED"
     },
     "terra12s2h8vlztjwu440khpc0063p34vm7nhu25w4p9": {
       "symbol": "mMSFT",
@@ -205,7 +205,7 @@
       "token": "terra1hvmzhnhxnyhjfnctntnn49a35w6hvygmxvjt7q",
       "pair": "terra1vy4rk2c09v86n0gl8qmdhcv3efvykhrfeayt9l",
       "lpToken": "terra1u5mzjkd3t3md6yart8s0wcnfqptxtn2rc9euzq",
-      "status": "LISTED"
+      "status": "DELISTED"
     },
     "terra1fdkfhgk433tar72t4edh6p6y9rmjulzc83ljuw": {
       "symbol": "mSLV",
@@ -247,14 +247,6 @@
       "lpToken": "terra1rag9w5ch0jrdxjffr6napqz0zsrpm6uz2zezmj",
       "status": "LISTED"
     },
-    "terra1z0k7nx0vl85hwpv3e3hu2cyfkwq07fl7nqchvd": {
-      "symbol": "mVIXY",
-      "name": "ProShares VIX Short-Term Futures ETF",
-      "token": "terra1z0k7nx0vl85hwpv3e3hu2cyfkwq07fl7nqchvd",
-      "pair": "terra1xg2393l4s7n4z2r0cnu4rr55mkpp942f4d3qzr",
-      "lpToken": "terra1ud750vcv39hd467sj2kk6s6nn8zf5xhgggf7uq",
-      "status": "DELISTED"
-    },
     "terra18gphn8r437p2xmjpw7a79hgsglf5y4t0x7s5ee": {
       "symbol": "mVIXY",
       "name": "ProShares VIX Short-Term Futures ETF",
@@ -263,12 +255,12 @@
       "lpToken": "terra1h9zrywpukj2wvu5dfsm7tcxk8mwzzyrxenshsn",
       "status": "LISTED"
     },
-    "terra18py95akdje8q8aaukhx65dplh9342m0j884wt4": {
-      "symbol": "mWVFC",
-      "name": "WVS Financial Corp.",
-      "token": "terra18py95akdje8q8aaukhx65dplh9342m0j884wt4",
-      "pair": "terra1kjz67vny3vdj5nx0a5dk0r8ymkcs4ga8zssfmk",
-      "lpToken": "terra1yh39ehhz9a94kxqtkxc0kuy2a9atxhynmkpxyd",
+    "terra1z0k7nx0vl85hwpv3e3hu2cyfkwq07fl7nqchvd": {
+      "symbol": "mVIXY",
+      "name": "ProShares VIX Short-Term Futures ETF",
+      "token": "terra1z0k7nx0vl85hwpv3e3hu2cyfkwq07fl7nqchvd",
+      "pair": "terra1xg2393l4s7n4z2r0cnu4rr55mkpp942f4d3qzr",
+      "lpToken": "terra1ud750vcv39hd467sj2kk6s6nn8zf5xhgggf7uq",
       "status": "DELISTED"
     },
     "terra1090l5p5v794dpyzr07da72cyexhuc4zag5cuer": {
@@ -278,6 +270,14 @@
       "pair": "terra136twwxx09ywacekqy88uxepus8djhd7pkjr44q",
       "lpToken": "terra1jz08nhqf3aju4rs8cyshfpzfj704sa3l0cnhvz",
       "status": "LISTED"
+    },
+    "terra18py95akdje8q8aaukhx65dplh9342m0j884wt4": {
+      "symbol": "mWVFC",
+      "name": "WVS Financial Corp.",
+      "token": "terra18py95akdje8q8aaukhx65dplh9342m0j884wt4",
+      "pair": "terra1kjz67vny3vdj5nx0a5dk0r8ymkcs4ga8zssfmk",
+      "lpToken": "terra1yh39ehhz9a94kxqtkxc0kuy2a9atxhynmkpxyd",
+      "status": "DELISTED"
     }
   },
   "delist": {
