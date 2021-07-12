@@ -47,6 +47,14 @@
       "lpToken": "terra1d8mk480l4sp3j095apcpqckrxyxqrsq6zapfzy",
       "status": "LISTED"
     },
+    "terra1ftefjmtpnk2fctsa8xkv8naven65z5qtgq83nu": {
+      "symbol": "mAMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "token": "terra1ftefjmtpnk2fctsa8xkv8naven65z5qtgq83nu",
+      "pair": "terra12q2ehzn8jah7mfez9d0f7ztsu3vdf0g3mxzztq",
+      "lpToken": "terra1lu2eg3hghmkd0s5jdsnr24mg5cremf0e8dpz4l",
+      "status": "LISTED"
+    },
     "terra12saaecsqwxj04fn0jsv4jmdyp6gylptf5tksge": {
       "symbol": "mAMZN",
       "name": "Amazon.com, Inc.",
@@ -77,6 +85,14 @@
       "token": "terra1qre9crlfnulcg0m68qqywqqstplgvrzywsg3am",
       "pair": "terra13qzses7zpsyrufx38h0kc3p87523cjgwmenj44",
       "lpToken": "terra1gdglgpm84pdzuedc924wurhsqd0vs4nv4tpmh8",
+      "status": "LISTED"
+    },
+    "terra1fs6c6y65c65kkjanjwvmnrfvnm2s58ph88t9ky": {
+      "symbol": "mDOT",
+      "name": "Polkadot",
+      "token": "terra1fs6c6y65c65kkjanjwvmnrfvnm2s58ph88t9ky",
+      "pair": "terra1722gzus7s6prj24wnzsqfkn0t8k7hc4p847tlw",
+      "lpToken": "terra1xrjygqshp9shcgfm4vj89mezxev36fk4na3ft2",
       "status": "LISTED"
     },
     "terra1ys4dwwzaenjg2gy02mslmc96f267xvpsjat7gx": {
@@ -119,14 +135,6 @@
       "lpToken": "terra1xwk2x2pyrhlshjgnlv3ql5q8r8r8vyrdf6u2mj",
       "status": "LISTED"
     },
-    "terra1p50j2k5vyw3q2tgywqvxyz59z8csh9p7x8dk5m": {
-      "symbol": "mIAU",
-      "name": "iShares Gold Trust",
-      "token": "terra1p50j2k5vyw3q2tgywqvxyz59z8csh9p7x8dk5m",
-      "pair": "terra1rtz5mn38pnj924nr97yzax4g849qj4d4m8r7wk",
-      "lpToken": "terra1wj8cm3h7fe369nl8j4ddukesfuy9l3hr4hjw22",
-      "status": "LISTED"
-    },
     "terra19dl29dpykvzej8rg86mjqg8h63s9cqvkknpclr": {
       "symbol": "mIAU",
       "name": "iShares Gold Trust",
@@ -134,6 +142,14 @@
       "pair": "terra1tq6w7rl4ryrk458k57dstelx54eylph5zwnpf9",
       "lpToken": "terra193c2xvuzswct8qtsg4e6qhe3hyt3l6fac9cy79",
       "status": "DELISTED"
+    },
+    "terra1p50j2k5vyw3q2tgywqvxyz59z8csh9p7x8dk5m": {
+      "symbol": "mIAU",
+      "name": "iShares Gold Trust",
+      "token": "terra1p50j2k5vyw3q2tgywqvxyz59z8csh9p7x8dk5m",
+      "pair": "terra1rtz5mn38pnj924nr97yzax4g849qj4d4m8r7wk",
+      "lpToken": "terra1wj8cm3h7fe369nl8j4ddukesfuy9l3hr4hjw22",
+      "status": "LISTED"
     },
     "terra1qhkjjlqq2lyf2evzserdaqx55nugksjqdpxvru": {
       "symbol": "mKSU",
@@ -151,20 +167,20 @@
       "lpToken": "terra1vtswnef0hgyjw73nc0zk07js9h5e9mudkj2qad",
       "status": "DELISTED"
     },
-    "terra19jdmle3zl99gugmptx8auckc9c2xw7nspyxjvx": {
-      "symbol": "mLRMR",
-      "name": "Larimar Therapeutics, Inc.",
-      "token": "terra19jdmle3zl99gugmptx8auckc9c2xw7nspyxjvx",
-      "pair": "terra1ym7gd7x9da79tey6mj2248jm07pn2flt670s6s",
-      "lpToken": "terra1xj4a7uhavktkv5rp20z0mc7hnneu4v2s6c5q2y",
-      "status": "DELISTED"
-    },
     "terra1anw5z9u5l35vxhhqljuygmkupwmafcv0m86kum": {
       "symbol": "mLRMR",
       "name": "Larimar Therapeutics, Inc.",
       "token": "terra1anw5z9u5l35vxhhqljuygmkupwmafcv0m86kum",
       "pair": "terra122mhak6jrjrknwk74wjycjxxrwl2esrmt0mm2w",
       "lpToken": "terra136vd5a23hhywz872n7t8f8egrq8kkwrpawdsf8",
+      "status": "DELISTED"
+    },
+    "terra19jdmle3zl99gugmptx8auckc9c2xw7nspyxjvx": {
+      "symbol": "mLRMR",
+      "name": "Larimar Therapeutics, Inc.",
+      "token": "terra19jdmle3zl99gugmptx8auckc9c2xw7nspyxjvx",
+      "pair": "terra1ym7gd7x9da79tey6mj2248jm07pn2flt670s6s",
+      "lpToken": "terra1xj4a7uhavktkv5rp20z0mc7hnneu4v2s6c5q2y",
       "status": "DELISTED"
     },
     "terra12s2h8vlztjwu440khpc0063p34vm7nhu25w4p9": {
@@ -223,6 +239,14 @@
       "lpToken": "terra1pef9fz8lkqajzuwp6ff6t33s86ndpkm3728cgc",
       "status": "LISTED"
     },
+    "terra18qs6704f4ujnwus9x9vxcxrrm0du0f232kpnd6": {
+      "symbol": "mSQ",
+      "name": "Square, Inc. ",
+      "token": "terra18qs6704f4ujnwus9x9vxcxrrm0du0f232kpnd6",
+      "pair": "terra1znqeqnumtmpwgdltfw72v2298m3lrg7m447f2q",
+      "lpToken": "terra1d6l7vk5ktugx9qm6nmtd2hv7kleg9xqce0ncps",
+      "status": "LISTED"
+    },
     "terra1nslem9lgwx53rvgqwd8hgq7pepsry6yr3wsen4": {
       "symbol": "mTSLA",
       "name": "Tesla, Inc.",
@@ -247,14 +271,6 @@
       "lpToken": "terra1rag9w5ch0jrdxjffr6napqz0zsrpm6uz2zezmj",
       "status": "LISTED"
     },
-    "terra18gphn8r437p2xmjpw7a79hgsglf5y4t0x7s5ee": {
-      "symbol": "mVIXY",
-      "name": "ProShares VIX Short-Term Futures ETF",
-      "token": "terra18gphn8r437p2xmjpw7a79hgsglf5y4t0x7s5ee",
-      "pair": "terra1tfkksph7p9qkean66kc87u2kalu0pw9um9ep2y",
-      "lpToken": "terra1h9zrywpukj2wvu5dfsm7tcxk8mwzzyrxenshsn",
-      "status": "LISTED"
-    },
     "terra1z0k7nx0vl85hwpv3e3hu2cyfkwq07fl7nqchvd": {
       "symbol": "mVIXY",
       "name": "ProShares VIX Short-Term Futures ETF",
@@ -262,6 +278,14 @@
       "pair": "terra1xg2393l4s7n4z2r0cnu4rr55mkpp942f4d3qzr",
       "lpToken": "terra1ud750vcv39hd467sj2kk6s6nn8zf5xhgggf7uq",
       "status": "DELISTED"
+    },
+    "terra18gphn8r437p2xmjpw7a79hgsglf5y4t0x7s5ee": {
+      "symbol": "mVIXY",
+      "name": "ProShares VIX Short-Term Futures ETF",
+      "token": "terra18gphn8r437p2xmjpw7a79hgsglf5y4t0x7s5ee",
+      "pair": "terra1tfkksph7p9qkean66kc87u2kalu0pw9um9ep2y",
+      "lpToken": "terra1h9zrywpukj2wvu5dfsm7tcxk8mwzzyrxenshsn",
+      "status": "LISTED"
     },
     "terra1090l5p5v794dpyzr07da72cyexhuc4zag5cuer": {
       "symbol": "mWVFC",
