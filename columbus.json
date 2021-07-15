@@ -48,6 +48,14 @@
       "lpToken": "terra1mtvslkm2tgsmh908dsfksnqu7r7lulh24a6knv",
       "status": "LISTED"
     },
+    "terra18ej5nsuu867fkx4tuy2aglpvqjrkcrjjslap3z": {
+      "symbol": "mAMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "token": "terra18ej5nsuu867fkx4tuy2aglpvqjrkcrjjslap3z",
+      "pair": "terra18cxcwv0theanknfztzww8ft9pzfgkmf2xrqy23",
+      "lpToken": "terra1m8mr9u3su46ezxwf7z7xnvm0jsapl2jd8vgefh",
+      "status": "LISTED"
+    },
     "terra165nd2qmrtszehcfrntlplzern7zl4ahtlhd5t2": {
       "symbol": "mAMZN",
       "name": "Amazon.com, Inc.",
@@ -78,6 +86,14 @@
       "token": "terra18wayjpyq28gd970qzgjfmsjj7dmgdk039duhph",
       "pair": "terra1h7t2yq00rxs8a78nyrnhlvp0ewu8vnfnx5efsl",
       "lpToken": "terra1ktckr8v7judrr6wkwv476pwsv8mht0zqzw2t0h",
+      "status": "LISTED"
+    },
+    "terra19ya4jpvjvvtggepvmmj6ftmwly3p7way0tt08r": {
+      "symbol": "mDOT",
+      "name": "Polkadot",
+      "token": "terra19ya4jpvjvvtggepvmmj6ftmwly3p7way0tt08r",
+      "pair": "terra17rvtq0mjagh37kcmm4lmpz95ukxwhcrrltgnvc",
+      "lpToken": "terra1p60datmmf25wgssguv65ltds3z6ea3me74nm2e",
       "status": "LISTED"
     },
     "terra1dk3g53js3034x4v5c3vavhj2738une880yu6kx": {
@@ -128,14 +144,6 @@
       "lpToken": "terra17smg3rl9vdpawwpe7ex4ea4xm6q038gp2chge5",
       "status": "LISTED"
     },
-    "terra10h7ry7apm55h4ez502dqdv9gr53juu85nkd4aq": {
-      "symbol": "mIAU",
-      "name": "iShares Gold Trust",
-      "token": "terra10h7ry7apm55h4ez502dqdv9gr53juu85nkd4aq",
-      "pair": "terra15kkctr4eug9txq7v6ks6026yd4zjkrm3mc0nkp",
-      "lpToken": "terra1ndlx5ndkknvmgj6s5ggmdlhjjsz0w6wrnwn5cf",
-      "status": "LISTED"
-    },
     "terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec": {
       "symbol": "mIAU",
       "name": "iShares Gold Trust",
@@ -143,6 +151,14 @@
       "pair": "terra1q2cg4sauyedt8syvarc8hcajw6u94ah40yp342",
       "lpToken": "terra1jl4vkz3fllvj6fchnj2trrm9argtqxq6335ews",
       "status": "DELISTED"
+    },
+    "terra10h7ry7apm55h4ez502dqdv9gr53juu85nkd4aq": {
+      "symbol": "mIAU",
+      "name": "iShares Gold Trust",
+      "token": "terra10h7ry7apm55h4ez502dqdv9gr53juu85nkd4aq",
+      "pair": "terra15kkctr4eug9txq7v6ks6026yd4zjkrm3mc0nkp",
+      "lpToken": "terra1ndlx5ndkknvmgj6s5ggmdlhjjsz0w6wrnwn5cf",
+      "status": "LISTED"
     },
     "terra1227ppwxxj3jxz8cfgq00jgnxqcny7ryenvkwj6": {
       "symbol": "mMSFT",
@@ -182,6 +198,14 @@
       "token": "terra1aa00lpfexyycedfg5k2p60l9djcmw0ue5l8fhc",
       "pair": "terra14hklnm2ssaexjwkcfhyyyzvpmhpwx6x6lpy39s",
       "lpToken": "terra1jqqegd35rg2gjde54adpj3t6ecu0khfeaarzy9",
+      "status": "LISTED"
+    },
+    "terra1u43zu5amjlsgty5j64445fr9yglhm53m576ugh": {
+      "symbol": "mSQ",
+      "name": "Square, Inc.",
+      "token": "terra1u43zu5amjlsgty5j64445fr9yglhm53m576ugh",
+      "pair": "terra1u3pknaazmmudfwxsclcfg3zy74s3zd3anc5m52",
+      "lpToken": "terra1mv3pgkzs4krcennqj442jscg6jv84cejrs50n2",
       "status": "LISTED"
     },
     "terra14y5affaarufk3uscy2vr6pe6w6zqf2wpjzn5sh": {
