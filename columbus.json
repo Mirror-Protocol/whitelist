@@ -64,6 +64,14 @@
       "lpToken": "terra1q7m2qsj3nzlz5ng25z5q5w5qcqldclfe3ljup9",
       "status": "LISTED"
     },
+    "terra1qqfx5jph0rsmkur2zgzyqnfucra45rtjae5vh6": {
+      "symbol": "mARKK",
+      "name": "ARK Innovation ETF",
+      "token": "terra1qqfx5jph0rsmkur2zgzyqnfucra45rtjae5vh6",
+      "pair": "terra1a5cc08jt5knh0yx64pg6dtym4c4l8t63rhlag3",
+      "lpToken": "terra1veqh8yc55mhw0ttjr5h6g9a6r9nylmrc0nzhr7",
+      "status": "LISTED"
+    },
     "terra1w7zgkcyt7y4zpct9dw8mw362ywvdlydnum2awa": {
       "symbol": "mBABA",
       "name": "Alibaba Group Holding Limited",
