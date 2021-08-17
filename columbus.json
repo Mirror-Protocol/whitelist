@@ -152,6 +152,14 @@
       "lpToken": "terra17smg3rl9vdpawwpe7ex4ea4xm6q038gp2chge5",
       "status": "LISTED"
     },
+    "terra18yqdfzfhnguerz9du5mnvxsh5kxlknqhcxzjfr": {
+      "symbol": "mHOOD",
+      "name": "Robinhood Markets, Inc.",
+      "token": "terra18yqdfzfhnguerz9du5mnvxsh5kxlknqhcxzjfr",
+      "pair": "terra1lr6rglgd50xxzqe6l5axaqp9d5ae3xf69z3qna",
+      "lpToken": "terra1s0dgcsdy9kgunnf3gnwl40uwy9rxtmc39mhy2m",
+      "status": "LISTED"
+    },
     "terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec": {
       "symbol": "mIAU",
       "name": "iShares Gold Trust",
