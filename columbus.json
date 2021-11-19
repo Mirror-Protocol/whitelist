@@ -266,12 +266,20 @@
     }
   },
   "delist": {
+    "terra1qelfthdanju7wavc5tq0k5r0rhsyzyyrsn09qy": {
+      "type": "DELIST",
+      "symbol": "mAMC",
+      "date": "2021-11-19",
+      "poll": 161
+    },
     "terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec": {
+      "type": "STOCKEVENT",
       "symbol": "mIAU",
       "date": "2021-05-24",
       "ratio": "1:2"
     },
     "terra1zp3a6q6q4953cz376906g5qfmxnlg77hx3te45": {
+      "type": "STOCKEVENT",
       "symbol": "mVIXY",
       "date": "2021-05-26",
       "ratio": "1:4"
