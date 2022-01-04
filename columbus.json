@@ -176,6 +176,14 @@
       "lpToken": "terra1ndlx5ndkknvmgj6s5ggmdlhjjsz0w6wrnwn5cf",
       "status": "LISTED"
     },
+    "terra1qsnj5gvq8rgs7yws8x5u02gwd5wvtu4tks0hjm": {
+      "symbol": "mKO",
+      "name": "Coca-Cola",
+      "token": "terra1qsnj5gvq8rgs7yws8x5u02gwd5wvtu4tks0hjm",
+      "pair": "terra1y7vdguewgus669kcxjlwughyxtdt3kheys05q0",
+      "lpToken": "terra10t6a287n4flvjpvdwuhre79ws9plufaagdj4r4",
+      "status": "LISTED"
+    },
     "terra1227ppwxxj3jxz8cfgq00jgnxqcny7ryenvkwj6": {
       "symbol": "mMSFT",
       "name": "Microsoft Corporation",
