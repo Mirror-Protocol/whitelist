@@ -176,6 +176,14 @@
       "lpToken": "terra1ndlx5ndkknvmgj6s5ggmdlhjjsz0w6wrnwn5cf",
       "status": "LISTED"
     },
+    "terra1ptdxmj3xmmljzx02nr4auwfuelmj0cnkh8egs2": {
+      "symbol": "mJNJ",
+      "name": "Johnson & Johnson",
+      "token": "terra1ptdxmj3xmmljzx02nr4auwfuelmj0cnkh8egs2",
+      "pair": "terra17mu25k7a2lj7pn8vjgtc5vjvah6gkt6njgh4q5",
+      "lpToken": "terra1yjvlgj80jkzwakqv65tzfwctdehqav4jujgx37",
+      "status": "LISTED"
+    },
     "terra1qsnj5gvq8rgs7yws8x5u02gwd5wvtu4tks0hjm": {
       "symbol": "mKO",
       "name": "Coca-Cola",
@@ -200,12 +208,28 @@
       "lpToken": "terra1mwu3cqzvhygqg7vrsa6kfstgg9d6yzkgs6yy3t",
       "status": "LISTED"
     },
+    "terra1rh2907984nudl7vh56qjdtvv7947z4dujj92sx": {
+      "symbol": "mPYPL",
+      "name": "PayPal Holdings Inc",
+      "token": "terra1rh2907984nudl7vh56qjdtvv7947z4dujj92sx",
+      "pair": "terra1xskmucgxkzf3quwry3dazerw74q4aqplu0vgg4",
+      "lpToken": "terra17rm53s5vhjpfrjkhappmswczcmhl8zqdwlfwtm",
+      "status": "LISTED"
+    },
     "terra1csk6tc7pdmpr782w527hwhez6gfv632tyf72cp": {
       "symbol": "mQQQ",
       "name": "Invesco QQQ Trust",
       "token": "terra1csk6tc7pdmpr782w527hwhez6gfv632tyf72cp",
       "pair": "terra1dkc8075nv34k2fu6xn6wcgrqlewup2qtkr4ymu",
       "lpToken": "terra16j09nh806vaql0wujw8ktmvdj7ph8h09ltjs2r",
+      "status": "LISTED"
+    },
+    "terra1246zy658dfgtausf0c4a6ly8sc2e285q4kxqga": {
+      "symbol": "mSBUX",
+      "name": "Starbucks Corporation",
+      "token": "terra1246zy658dfgtausf0c4a6ly8sc2e285q4kxqga",
+      "pair": "terra1lvkkwhzgchq9n9xafag9u4q96q057vge0q87zd",
+      "lpToken": "terra1snem5zhmzj3q4wzm59tf98f0czsf6hcfpf703z",
       "status": "LISTED"
     },
     "terra1kscs6uhrqwy6rx5kuw5lwpuqvm3t6j2d6uf2lp": {
