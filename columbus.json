@@ -208,6 +208,14 @@
       "lpToken": "terra1mwu3cqzvhygqg7vrsa6kfstgg9d6yzkgs6yy3t",
       "status": "LISTED"
     },
+    "terra1drsjzvzej4h4qlehcfwclxg4w5l3h5tuvd3jd8": {
+      "symbol": "mNVDA",
+      "name": "NVIDIA Corporation",
+      "token": "terra1drsjzvzej4h4qlehcfwclxg4w5l3h5tuvd3jd8",
+      "pair": "terra132qjgv0evru0em6v2rcwakgxzafjhwfz7fc7hh",
+      "lpToken": "terra1495vu7s83d8kyqk4lzawajqt5d27pjfd8ym398",
+      "status": "LISTED"
+    },
     "terra1rh2907984nudl7vh56qjdtvv7947z4dujj92sx": {
       "symbol": "mPYPL",
       "name": "PayPal Holdings Inc",
