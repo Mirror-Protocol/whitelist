@@ -208,6 +208,14 @@
       "lpToken": "terra1mwu3cqzvhygqg7vrsa6kfstgg9d6yzkgs6yy3t",
       "status": "LISTED"
     },
+    "terra1dj2cj02zak0nvwy3uj9r9dhhxhdwxnw6psse6p": {
+      "symbol": "mNIO",
+      "name": "NIO Inc.",
+      "token": "terra1dj2cj02zak0nvwy3uj9r9dhhxhdwxnw6psse6p",
+      "pair": "terra180jp452au9sfwq4kuxtsd9q2wzjfu6v9ghrkax",
+      "lpToken": "terra1je3y5wnfm5v884j3vdegcc8045kje39g6aflce",
+      "status": "LISTED"
+    },
     "terra1drsjzvzej4h4qlehcfwclxg4w5l3h5tuvd3jd8": {
       "symbol": "mNVDA",
       "name": "NVIDIA Corporation",
