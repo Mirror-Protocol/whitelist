@@ -96,6 +96,14 @@
       "lpToken": "terra1ktckr8v7judrr6wkwv476pwsv8mht0zqzw2t0h",
       "status": "LISTED"
     },
+    "terra149755r3y0rve30e209awkhn5cxgkn5c8ju9pm5": {
+      "symbol": "mDIS",
+      "name": "The Walt Disney Company",
+      "token": "terra149755r3y0rve30e209awkhn5cxgkn5c8ju9pm5",
+      "pair": "terra1u79vnslyaxprhmeqla6lj7dkcecg800ssclhu6",
+      "lpToken": "terra13sjghs2r7seamgr4g9c4p2eeacknggetsrhcar",
+      "status": "LISTED"
+    },
     "terra19ya4jpvjvvtggepvmmj6ftmwly3p7way0tt08r": {
       "symbol": "mDOT",
       "name": "Polkadot",
