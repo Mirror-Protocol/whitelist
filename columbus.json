@@ -168,14 +168,6 @@
       "lpToken": "terra1s0dgcsdy9kgunnf3gnwl40uwy9rxtmc39mhy2m",
       "status": "LISTED"
     },
-    "terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec": {
-      "symbol": "mIAU",
-      "name": "iShares Gold Trust",
-      "token": "terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec",
-      "pair": "terra1q2cg4sauyedt8syvarc8hcajw6u94ah40yp342",
-      "lpToken": "terra1jl4vkz3fllvj6fchnj2trrm9argtqxq6335ews",
-      "status": "DELISTED"
-    },
     "terra10h7ry7apm55h4ez502dqdv9gr53juu85nkd4aq": {
       "symbol": "mIAU",
       "name": "iShares Gold Trust",
@@ -183,6 +175,14 @@
       "pair": "terra15kkctr4eug9txq7v6ks6026yd4zjkrm3mc0nkp",
       "lpToken": "terra1ndlx5ndkknvmgj6s5ggmdlhjjsz0w6wrnwn5cf",
       "status": "LISTED"
+    },
+    "terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec": {
+      "symbol": "mIAU",
+      "name": "iShares Gold Trust",
+      "token": "terra15hp9pr8y4qsvqvxf3m4xeptlk7l8h60634gqec",
+      "pair": "terra1q2cg4sauyedt8syvarc8hcajw6u94ah40yp342",
+      "lpToken": "terra1jl4vkz3fllvj6fchnj2trrm9argtqxq6335ews",
+      "status": "DELISTED"
     },
     "terra1ptdxmj3xmmljzx02nr4auwfuelmj0cnkh8egs2": {
       "symbol": "mJNJ",
@@ -222,6 +222,14 @@
       "token": "terra1dj2cj02zak0nvwy3uj9r9dhhxhdwxnw6psse6p",
       "pair": "terra180jp452au9sfwq4kuxtsd9q2wzjfu6v9ghrkax",
       "lpToken": "terra1je3y5wnfm5v884j3vdegcc8045kje39g6aflce",
+      "status": "LISTED"
+    },
+    "terra17ana8hvzea0q7w367dm0dw48sxwql39qekpt7g": {
+      "symbol": "mNKE",
+      "name": "NIKE, Inc.",
+      "token": "terra17ana8hvzea0q7w367dm0dw48sxwql39qekpt7g",
+      "pair": "terra1yphapr9zkd7eq60n2nux0xfldzs58z9ncs7s6f",
+      "lpToken": "terra146dmpuj9zyzk6a47qdfn0djup3kddey5vdpk0c",
       "status": "LISTED"
     },
     "terra1drsjzvzej4h4qlehcfwclxg4w5l3h5tuvd3jd8": {
