@@ -12,7 +12,8 @@
     "airdrop": "terra1p6nvyw7vz3fgpy4nyh3q3vc09e65sr97ejxn2p",
     "limitOrder": "terra1vc4ch0z3n6c23f9uywzy5yqaj2gmpnam8qgge7",
     "collateralOracle": "terra1q3ls6u2glsazdeu7dxggk8d04elnvmsg0ung6n",
-    "lock": "terra1pcxghd4dyf950mcs0kmlp7lvnrjsnl6qlfldwj"
+    "lock": "terra1pcxghd4dyf950mcs0kmlp7lvnrjsnl6qlfldwj",
+    "oracleHub": "terra1sdr3rya4h039f4htfm42q44x3dlaxra7hc7p8e"
   },
   "whitelist": {
     "terra10llyp6v3j3her8u3ce66ragytu45kcmd9asj3u": {
