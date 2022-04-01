@@ -13,7 +13,8 @@
     "limitOrder": "terra1zpr8tq3ts96mthcdkukmqq4y9lhw0ycevsnw89",
     "collateralOracle": "terra1pmlh0j5gpzh2wsmyd3cuk39cgh2gfwk6h5wy9j",
     "shortReward": "terra16mlzdwqq5qs6a23250lq0fftke8v80sapc5kye",
-    "lock": "terra169urmlm8wcltyjsrn7gedheh7dker69ujmerv2"
+    "lock": "terra169urmlm8wcltyjsrn7gedheh7dker69ujmerv2",
+    "oracleHub": "terra1t5k2c2p2kf5as247egz53rj8g8g2x4jw9qte9a"
   },
   "whitelist": {
     "terra15gwkyepfc6xgca5t5zefzwy42uts8l2m4g40k6": {
